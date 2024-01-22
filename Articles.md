@@ -12,6 +12,7 @@
 3. https://www.youtube.com/watch?v=i2qSxMVeVLI : For a good conceptual yet mathematical understanding of how training, resolution, guidance, and distillation works in SD.
 
 # Other links
-1. https://course.fast.ai/Lessons/lesson9.html
-2. https://www.youtube.com/watch?v=_7rMfsA24Ls&t=5s
+1. Intro to diffusers: https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb
+2. https://course.fast.ai/Lessons/lesson9.html
+3. https://www.youtube.com/watch?v=_7rMfsA24Ls&t=5s
 3. https://www.youtube.com/watch?v=ZBKpAp_6TGI 
