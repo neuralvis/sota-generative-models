@@ -12,7 +12,11 @@
 
 1. [How AI Image Generators Work](https://www.youtube.com/watch?v=1CIpzeNxIhU) : Excellent introduction to the fundamental workings of UNet within Stable Diffusion from [`computerphile`](https://www.youtube.com/@Computerphile).
 2. [Stable Diffusion in Code](https://www.youtube.com/watch?v=-lz30by8-sU) : Introduction to basic code structure and components of Stable Diffusion from [`computerphile`](https://www.youtube.com/@Computerphile). Head over to [Google Colab](https://colab.research.google.com/drive/1roZqqhsdpCXZr8kgV_Bx_ABVBPgea3lX?usp=sharing) for code. This provides a first level down (from using `pipelines` in `diffuser` library) of running UNets iteratively. Also provides examples of how to blend between multiple prompts. 
-3. https://www.youtube.com/watch?v=i2qSxMVeVLI : For a good conceptual yet mathematical understanding of how training, resolution, guidance, and distillation works in SD.
+3. [LoRA — Intuitively and Exhaustively Explained](https://medium.com/towards-data-science/lora-intuitively-and-exhaustively-explained-e944a6bff46b) This article provides a good intuitive explanation of what LoRA is and how it works.
+	4. [Here is a video explainer from the LoRA authors at Microsoft](https://www.youtube.com/watch?v=DhRoTONcyZE) 
+	5. Note that LoRA is part of a family of fine-tuning approaches called “PEFT” - *Parameter Efficient Fine-Tuning*. 
+	6. HuggingFace has a [PEFT library](https://github.com/huggingface/peft) to use with [diffusers](https://github.com/huggingface/diffusers).	 
+4. https://www.youtube.com/watch?v=i2qSxMVeVLI : For a good conceptual yet mathematical understanding of how training, resolution, guidance, and distillation works in SD.
 
 # Other links
 1. Intro to diffusers: https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb
