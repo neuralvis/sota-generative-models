@@ -14,6 +14,8 @@ UNets are fundamental to diffusion models, and therefore gaining a good understa
  
 ## Understanding Stable Diffusion
 
+1. *Diffusion Model Clearly Explained!* [Part 1](https://medium.com/@steinsfu/diffusion-model-clearly-explained-cd331bd41166) and [Part 2](https://medium.com/@steinsfu/stable-diffusion-clearly-explained-ed008044e07e) are good introductory articles to provide an overview of how diffusion models work.
+
 1. [How AI Image Generators Work](https://www.youtube.com/watch?v=1CIpzeNxIhU) : Excellent introduction to the fundamental workings of UNet in the context of Stable Diffusion from [`computerphile`](https://www.youtube.com/@Computerphile).
 2. [Stable Diffusion in Code](https://www.youtube.com/watch?v=-lz30by8-sU) : Introduction to basic code structure and components of Stable Diffusion from [`computerphile`](https://www.youtube.com/@Computerphile). Head over to [Google Colab](https://colab.research.google.com/drive/1roZqqhsdpCXZr8kgV_Bx_ABVBPgea3lX?usp=sharing) for code. This provides a first level down (from using `pipelines` in `diffuser` library) of running UNets iteratively. Also provides examples of how to blend between multiple prompts. 
 3. [LoRA — Intuitively and Exhaustively Explained](https://medium.com/towards-data-science/lora-intuitively-and-exhaustively-explained-e944a6bff46b) This article provides a good intuitive explanation of what LoRA is and how it works. Note that LoRA is part of a family of fine-tuning approaches called “PEFT” - **Parameter Efficient Fine-Tuning**. This approach is **key to understanding how one can efficiently and quickly fine-tune a foundational diffusion model with new data**.
