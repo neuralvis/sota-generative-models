@@ -47,5 +47,13 @@ The following links have not been reviewed -
 3. https://www.youtube.com/watch?v=ZBKpAp_6TGI 
 
 ## Vision Transformers
+- Sebastian Raschka
+	- [Understanding and coding attention](https://substack.com/inbox/post/140464659)
+	- [State of Computer Vision 2023](https://magazine.sebastianraschka.com/p/ahead-of-ai-10-state-of-computer?utm_source=%2Finbox%2Fsaved&utm_medium=reader2)
+	- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/ahead-of-ai-10-state-of-computer?utm_source=%2Finbox%2Fsaved&utm_medium=reader2)
+- https://e2eml.school/transformers.html
+- https://e2eml.school/blog.html
+- https://medium.com/towards-data-science/vision-transformers-explained-a9d07147e4c8
+- https://mhamilton.net/featup.html
 
 
