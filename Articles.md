@@ -6,7 +6,7 @@ The following ~15-30 minute videos explain conceptually how self and cross atten
 1. [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained](https://www.youtube.com/watch?v=zxQyTK8quyY)
 2. [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
 
-## Understanding UNets and CNNs
+## Understanding UNets 
 UNets are fundamental to diffusion models, and therefore gaining a good understanding of how they work is critical. (MADHU: More links needed here)
 
 1. [The U-Net (actually) explained in 10 minutes](https://www.youtube.com/watch?v=NhdzGfB1q74)
@@ -56,4 +56,9 @@ The following links have not been reviewed -
 - https://medium.com/towards-data-science/vision-transformers-explained-a9d07147e4c8
 - https://mhamilton.net/featup.html
 
-
+## Understanding CNN
+1. Go through Brandon Rohrer’s [How do CNNs work? Video and Notes](https://e2eml.school/how_convolutional_neural_networks_work) and the [in-depth video](https://www.youtube.com/watch?v=JB8T_zN7ZC0) to conceptually understand
+	- Convolutional Layers
+	- Pooling Layers
+	- Normalization Layers (ReLU, Sigmoid)
+2. 
