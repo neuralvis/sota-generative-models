@@ -51,6 +51,7 @@ The following links have not been reviewed -
 	- [Understanding and coding attention](https://substack.com/inbox/post/140464659)
 	- [State of Computer Vision 2023](https://magazine.sebastianraschka.com/p/ahead-of-ai-10-state-of-computer?utm_source=%2Finbox%2Fsaved&utm_medium=reader2)
 	- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/ahead-of-ai-10-state-of-computer?utm_source=%2Finbox%2Fsaved&utm_medium=reader2)
+- Sayak Paul’s [CVPR 2023 Tutorial](https://all-things-vits.github.io/atv/) on Vision Transformers
 - https://e2eml.school/transformers.html
 - https://e2eml.school/blog.html
 - https://medium.com/towards-data-science/vision-transformers-explained-a9d07147e4c8
