@@ -1,5 +1,9 @@
 # Learning Path
 
+{{TOC}}
+
+
+
 ## Understanding Attention 
 The following ~15-30 minute videos explain conceptually how self and cross attention mechanism works in LLMs. The same mechanism is used in Stable Diffusion models to encode prompts.
 
@@ -12,7 +16,7 @@ UNets are fundamental to diffusion models, and therefore gaining a good understa
 1. [The U-Net (actually) explained in 10 minutes](https://www.youtube.com/watch?v=NhdzGfB1q74)
 2. [How Stable Diffusion Works](https://www.youtube.com/watch?v=sFztPP9qPRc): This video is slightly advanced, but it shows how attention mechanisms are combined with UNets in latent space for stable diffusion
  
-## Understanding Stable Diffusion
+## Stable Diffusion
 ### Conceptual Understanding 
 
 1. *Diffusion Model Clearly Explained!* [Part 1](https://medium.com/@steinsfu/diffusion-model-clearly-explained-cd331bd41166) and [Part 2](https://medium.com/@steinsfu/stable-diffusion-clearly-explained-ed008044e07e) are good introductory articles to provide an overview of how diffusion models work.
@@ -26,13 +30,14 @@ UNets are fundamental to diffusion models, and therefore gaining a good understa
 5. [How I understand diffusion models (YouTube)](https://www.youtube.com/watch?v=i2qSxMVeVLI) : For a good conceptual yet mathematical understanding of how training, resolution, guidance, and distillation works in SD.
 
 
+
 ### Foundational Articles
 
 - [Sander Dielman’s Blog](https://sander.ai/posts/): Intuitive and technical articles on Diffusion Models in general. Eg. Classifier-free guidance etc. The article [_Diffusion models are autoencoders_](https://sander.ai/2022/01/31/diffusion.html) and [_Perspectives on diffusion_](https://sander.ai/2023/07/20/perspectives.html) are excellent reads.
 - Diffusion models took off like a rocket at the end of 2019, after the publication of Song & Ermon’s [seminal paper](https://arxiv.org/abs/1907.05600). There is a [blog post](http://yang-song.net/blog/2021/score/) by Song that explains the intuition.
 - [What are diffusion models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) by Lilian Weng gives theoretical underpinnings for diffusion models.
 - Studies and prior art: https://github.com/Maks-s/sd-akashic#studies-toc
-
+- [How is attention added to the UNet blocks?](https://huggingface.co/blog/perceiver): This article explains the Perceiver model that allows interleaving of attention blocks with the CNN blocks.
 
 ### Hands-on Tutorials
 
