@@ -40,6 +40,7 @@ UNets are fundamental to diffusion models, and therefore gaining a good understa
 2. [Understanding Stable Diffusion from “Scratch”](https://scholar.harvard.edu/binxuw/classes/machine-learning-scratch/materials/stable-diffusion-scratch) is a bit outdated, but still a good step-by-step tutorial (co-lab notebook) to walk-through for Stable Diffusion.
 3. [Introductory tutorial for Huggingface Diffuser library](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb)  
 4.  [The annotated diffusion model](https://huggingface.co/blog/annotated-diffusion) by Huggingface
+5.  [CVPR Tutorial on Denoising Diffusion Models](https://cvpr2022-tutorial-diffusion-models.github.io)
 
 The following links have not been reviewed -
 1. https://course.fast.ai/Lessons/lesson9.html
