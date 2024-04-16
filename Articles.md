@@ -26,19 +26,19 @@ These articles provide an in-depth view of attention mechanisms -
 	- Normalization Layers (ReLU, Sigmoid)
 2. Read Chapter ?? From Deep Learning book by Christopher Bishop
 
-# UNets 
+## UNets 
 
 UNets are fundamental to diffusion models, and therefore gaining a good understanding of how they work is critical. 
 
 1. [The U-Net (actually) explained in 10 minutes](https://www.youtube.com/watch?v=NhdzGfB1q74)
 2. Read paper U-Net: Convolutional Networks for Biomedical Image Segmentation
 
-## Attention in UNets
+### Attention in UNets
 - [How is attention added to the UNet blocks?](https://huggingface.co/blog/perceiver): This article explains the Perceiver model that allows interleaving of attention blocks with the CNN blocks.
 - Read the following papers - 
 	- [Perceiver](https://arxiv.org/abs/2103.03206) and [PerceiverIO](https://arxiv.org/abs/2107.14795)
 	- [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971)
- 
+- There is a code implementation explanation for UNets with Attention layers here - https://nn.labml.ai/diffusion/stable_diffusion/model/unet_attention.html 
 # Stable Diffusion
 ## Conceptual Understanding 
 
@@ -52,6 +52,7 @@ UNets are fundamental to diffusion models, and therefore gaining a good understa
 	- [Here is a video explainer from the LoRA authors at Microsoft](https://www.youtube.com/watch?v=DhRoTONcyZE) 
 	- HuggingFace has a [PEFT library](https://github.com/huggingface/peft) to use with [diffusers](https://github.com/huggingface/diffusers).	 
 4. **[Classifer-free Guidance](https://sander.ai/2022/05/26/guidance.html)**: Once a reasonable understanding of inner workings of stable diffusion is gained from [`computerphile's`](https://www.youtube.com/@Computerphile) videos above, this article provides a mathematical intuition on how classifier-free guidance works. **Classifier-free guidance is key for how conditioning works in stable diffusion**.
+5. [**ControlNets** clearly explained!](https://medium.com/@steinsfu/stable-diffusion-controlnet-clearly-explained-f86092b62c89) is a good article providing an overview of how ControlNets are used for more advanced guidance with diffusion models.
 
 
 ## Foundational Articles
@@ -83,3 +84,9 @@ The following links have not been reviewed -
 - Sayak Paul’s [CVPR 2023 Tutorial](https://all-things-vits.github.io/atv/) on Vision Transformers
 - https://medium.com/towards-data-science/vision-transformers-explained-a9d07147e4c8
 - https://mhamilton.net/featup.html
+
+# Other Blogs
+- http://colah.github.io
+- https://distill.pub/2020/circuits/
+- https://transformer-circuits.pub
+- Sebastian Raschka’s Blog
