@@ -18,6 +18,7 @@ These articles provide an in-depth view of attention mechanisms -
 1. [Understanding and coding attention, Sebastian Raschka](https://substack.com/inbox/post/140464659)
 2. [Brandon Rohrer’s Transformers from scratch](https://e2eml.school/transformers.html)
 3. [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html)
+4. [Creating a Transformer From Scratch](https://benjaminwarner.dev/2023/07/01/attention-mechanism)
 
 # Convolutional Neural Networks
 1. Go through Brandon Rohrer’s [How do CNNs work? Video and Notes](https://e2eml.school/how_convolutional_neural_networks_work) and the [in-depth video](https://www.youtube.com/watch?v=JB8T_zN7ZC0) to conceptually understand
