@@ -4,6 +4,13 @@
 
 
 
+# Encoders-Decoders
+- [Understanding VQ-VAE](https://mlberkeley.substack.com/p/vq-vae)
+- [Dall-E is based on VQ-VAE](https://mlberkeley.substack.com/p/dalle2)
+- [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+- [Variational Autoencoders are Beautiful](https://www.compthree.com/blog/autoencoder/)
+- Seminal Paper that introduced VQ-VAE: https://arxiv.org/abs/1711.00937
+
 # Attention 
 ## Conceptual Understanding
 The following ~15-30 minute videos explain conceptually how self and cross attention mechanism works in LLMs. The same mechanism is used in Stable Diffusion models to encode prompts, and in the UNet Layers.
