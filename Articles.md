@@ -5,6 +5,10 @@
 
 
 # Encoders-Decoders
+## Conceptual Understanding 
+- [Video explaining VQ-VAE](https://www.youtube.com/watch?v=updRZIvaqCY)
+
+## Deeper Understanding
 - [Understanding VQ-VAE](https://mlberkeley.substack.com/p/vq-vae)
 - [Dall-E is based on VQ-VAE](https://mlberkeley.substack.com/p/dalle2)
 - [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
