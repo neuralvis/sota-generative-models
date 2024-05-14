@@ -14,6 +14,7 @@
 - [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 - [Variational Autoencoders are Beautiful](https://www.compthree.com/blog/autoencoder/)
 - Seminal Paper that introduced VQ-VAE: https://arxiv.org/abs/1711.00937
+- The problem of *[entanglement in image synthesis](https://blog.metaphysic.ai/entanglement-in-image-synthesis/)*
 
 # Attention 
 ## Conceptual Understanding
@@ -88,6 +89,12 @@ The following links have not been reviewed -
 - Sayak Paul’s [CVPR 2023 Tutorial](https://all-things-vits.github.io/atv/) on Vision Transformers
 - https://medium.com/towards-data-science/vision-transformers-explained-a9d07147e4c8
 - https://mhamilton.net/featup.html
+
+# Evolution of Generative Architectures for Image Synthesis
+- [Google Imagen](https://imagen.research.google) [May 2022]
+- [Google Parti](https://sites.research.google/parti/) [June 2022]
+- [Google Muse](https://muse-model.github.io) [Jan 2023]
+	- [Blog explaining Muse](https://blog.metaphysic.ai/muse-googles-super-fast-text-to-image-model-abandons-latent-diffusion-for-transformers/)
 
 # Other Blogs
 - http://colah.github.io
