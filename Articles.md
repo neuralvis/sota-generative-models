@@ -14,7 +14,10 @@
 - [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 - [Variational Autoencoders are Beautiful](https://www.compthree.com/blog/autoencoder/)
 - Seminal Paper that introduced VQ-VAE: https://arxiv.org/abs/1711.00937
+
+# Latent Spaces
 - The problem of *[entanglement in image synthesis](https://blog.metaphysic.ai/entanglement-in-image-synthesis/)*
+	- [What is the latent space of an image synthesis system ?](https://blog.metaphysic.ai/what-is-the-latent-space-of-an-image-synthesis-system/)
 
 # Attention 
 ## Conceptual Understanding
