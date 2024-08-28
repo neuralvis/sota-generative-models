@@ -99,6 +99,9 @@ The following links have not been reviewed -
 - [Google Muse](https://muse-model.github.io) [Jan 2023]
 	- [Blog explaining Muse](https://blog.metaphysic.ai/muse-googles-super-fast-text-to-image-model-abandons-latent-diffusion-for-transformers/)
 
+# Transformers vs CNNs 
+- [On the speed of ViTs and CNNs](http://lucasb.eyer.be/articles/vit_cnn_speed.html)
+
 # Other Blogs
 - http://colah.github.io
 - https://distill.pub/2020/circuits/
