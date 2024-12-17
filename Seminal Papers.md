@@ -30,8 +30,9 @@ Some links from https://twitter.com/CSProfKGD/status/1779893136392609975
 
 ### Blog Articles
 - [A Visual dive into conditional flow matching](https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/)
-- [NeurIPS 2024 Tutorial](https://t.co/gZ8qg7yVvU)
+- [Meta NeurIPS 2024 Tutorial](https://t.co/gZ8qg7yVvU)
 	- [Github Link](https://github.com/facebookresearch/flow_matching) 
+	- [ArXiv Link](https://arxiv.org/abs/2412.06264)
 - [Continuous Normalizing Flows and Flow Matching](https://veryunknown.com/post/continuous-normalizing-flows/)
 - [Rectified Flows](https://www.cs.utexas.edu/~lqiang/rectflow/html/intro.html)
 - [Matching flows instead of scores](https://jmtomczak.github.io/blog/18/18_fm.html)

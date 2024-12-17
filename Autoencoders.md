@@ -13,7 +13,7 @@ https://www.tilderesearch.com/blog/rate-distortion-saes
 
 ## Visualizing Latents
 
-Latents
+### Latents
 
 - https://github.com/jessevig/bertviz
 - https://github.com/guoqincode/DiT-Visualization
