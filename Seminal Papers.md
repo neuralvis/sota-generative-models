@@ -16,6 +16,7 @@
 - Diffusion models took off like a rocket at the end of 2019, after the publication of Song & Ermon’s [seminal paper](https://arxiv.org/abs/1907.05600). There is a [blog post](http://yang-song.net/blog/2021/score/) by Song that explains the intuition.
 - [What are diffusion models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) by Lilian Weng gives theoretical underpinnings for diffusion models.
 - [Langevin Monte Carlo Sampling](https://abdulfatir.com/blog/2020/Langevin-Monte-Carlo/)
+- [Diffusion without tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c) provides an interview with Yan Song - the inventor of diffusion processes.
 
 ## Flow Matching
 Some links from https://twitter.com/CSProfKGD/status/1779893136392609975

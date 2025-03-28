@@ -14,8 +14,28 @@
 
 ## World Models
 
-- https://ramimo.substack.com/p/lucid-v1-a-world-model-that-does
-- Genie 2 from Google
+Many of the following work use [Diffusion Forcing](https://boyuan.space/diffusion-forcing/) that combines next-token prediction diffusion.
+
+- [Genie 2 from Google](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+	- Highest quality model IMO. Not open, unfortunately.
 - https://genesis-embodied-ai.github.io
-- Oasis by Decarte Labs
+	- Really just a physics engine with LLM.
+- [Oasis by Decarte Labs](https://oasis-model.github.io)
+	- Minecraft based models. Not high quality.
+- [Cosmos by nVidia](https://research.nvidia.com/labs/dir/cosmos1/)
+	- Open model, code. 
+	- *Only* open model for autoregressive video generation.
+- [causvid by Adobe + MIT](https://causvid.github.io/)
+	- Good model, not open
+- [GameNGen](https://gamengen.github.io)
+	- Intern project - not a high quality model
+- [Lucid-v1 by unknown](https://ramimo.substack.com/p/lucid-v1-a-world-model-that-does)
+	- Developer project - not a high quality model
+
+### Seminal Papers
+https://worldmodels.github.io
+
+### Genie2
+- Trained with a causal mask, similar to LLMs
+- Connections to diffusion forcing ?
 

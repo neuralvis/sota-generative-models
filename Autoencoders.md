@@ -25,3 +25,6 @@ https://www.tilderesearch.com/blog/rate-distortion-saes
 
 - https://github.com/mashaan14/VisionTransformer-MNIST/blob/main/VisionTransformer_MNIST.ipynb
 
+- https://x.com/msfeldstein/status/1849518352059990428
+	- Code: [Sliding in Latent Space](https://colab.research.google.com/drive/1176r3ZVqqxzVoj1pfq068_ehnLYdWoxm#scrollTo=Q0V1MtewwhZo)
+

@@ -26,6 +26,8 @@ The following ~15-30 minute videos explain conceptually how self and cross atten
 1. [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained](https://www.youtube.com/watch?v=zxQyTK8quyY):  This is a first pass overview of attention mechanics
 2. [Visualizing Attention](https://www.youtube.com/watch?v=eMlx5fFNoYc) by 3Blue1Brown has an excellent explanation of both multi-head attention and of cross-attention mechanism
 2. [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
+3. [Transformers explained visually](https://medium.com/towards-data-science/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
+	4. Explains how an ecoder-decoder attention works in relation to other parts of the transformer, especially in Part 2 of the series.
 
 ## Deeper Understanding
 These articles provide an in-depth view of attention mechanisms -
@@ -34,6 +36,7 @@ These articles provide an in-depth view of attention mechanisms -
 2. [Brandon Rohrer’s Transformers from scratch](https://e2eml.school/transformers.html)
 3. [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html)
 4. [Creating a Transformer From Scratch](https://benjaminwarner.dev/2023/07/01/attention-mechanism)
+5. [How to scale your model](https://jax-ml.github.io/scaling-book/) 
 
 # Convolutional Neural Networks
 1. Go through Brandon Rohrer’s [How do CNNs work? Video and Notes](https://e2eml.school/how_convolutional_neural_networks_work) and the [in-depth video](https://www.youtube.com/watch?v=JB8T_zN7ZC0) to conceptually understand
