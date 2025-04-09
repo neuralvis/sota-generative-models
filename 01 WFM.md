@@ -1,5 +1,24 @@
 # VLMs and World Models
 
+
+## Understanding vs. Generation
+- Image Understanding
+	- Requires high-level semantic understanding and reasoning
+	- Vision encoder focuses on high-dimensional representation to capture this
+- Image Generation
+	- Generate local details while maintaining global consistency
+	- Encoder needs low-dimensional encoding for fine-grained spatial structure/texture
+- Unifying both directly will lead to conflicts and trade-offs
+- Models that combine image understanding and image generation into the same backbone (eg: Janus).
+- Models that combine Image and Video Generation into the same backbone: eg. Goku by ByteDance
+- Using Multimodal models for training
+	- Goku uses a VLM Tarsier2
+	- Janus-pro uses ?? Models for prompt alignment and training
+	- Cosmos uses something ?
+- Using autoregressive models
+
+#WFM
+
 ## Introductory Material
 
 - https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
@@ -39,3 +58,8 @@ https://worldmodels.github.io
 - Trained with a causal mask, similar to LLMs
 - Connections to diffusion forcing ?
 
+### Adjacent Articles and Papers 
+- [By Jon Barron (DeepMind)](https://x.com/jon_barron/status/1909393003892097178)
+- PhysDreamer: https://physdreamer.github.io/
+- PhyScene: https://physcene.github.io/
+- https://sim-gs.github.io/
