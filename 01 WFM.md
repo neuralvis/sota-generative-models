@@ -50,6 +50,7 @@ Many of the following work use [Diffusion Forcing](https://boyuan.space/diffusio
 	- Intern project - not a high quality model
 - [Lucid-v1 by unknown](https://ramimo.substack.com/p/lucid-v1-a-world-model-that-does)
 	- Developer project - not a high quality model
+- **[SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)** - Open-source video model that uses diffusion forcing to generate continuous videos.
 
 ### Seminal Papers
 https://worldmodels.github.io
