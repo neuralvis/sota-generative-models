@@ -33,7 +33,7 @@
 
 ## World Models
 
-Many of the following work use [Diffusion Forcing](https://boyuan.space/diffusion-forcing/) that combines next-token prediction diffusion.
+Many of the following work use [Diffusion Forcing](https://boyuan.space/diffusion-forcing/) + [YouTube talk](https://www.youtube.com/watch?v=CNgwS8B7UvE) that combines next-token prediction and diffusion.
 
 - [Genie 2 from Google](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 	- Highest quality model IMO. Not open, unfortunately.
@@ -51,6 +51,11 @@ Many of the following work use [Diffusion Forcing](https://boyuan.space/diffusio
 - [Lucid-v1 by unknown](https://ramimo.substack.com/p/lucid-v1-a-world-model-that-does)
 	- Developer project - not a high quality model
 - **[SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)** - Open-source video model that uses diffusion forcing to generate continuous videos.
+- [GameFactory](https://yujiwen.github.io/gamefactory/) - Provides a way to train input-conditioned video generation.
+
+
+
+
 
 ### Seminal Papers
 https://worldmodels.github.io
@@ -64,3 +69,5 @@ https://worldmodels.github.io
 - PhysDreamer: https://physdreamer.github.io/
 - PhyScene: https://physcene.github.io/
 - https://sim-gs.github.io/
+
+

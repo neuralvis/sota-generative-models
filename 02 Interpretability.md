@@ -1,5 +1,8 @@
 # Understanding Autoencoders
 
+## Readings
+
+### Random
 https://www.jeremyjordan.me/variational-autoencoders/
 
 https://medium.com/@weidagang/demystifying-neural-networks-variational-autoencoders-6a44e75d0271
@@ -12,7 +15,10 @@ https://www.youtube.com/@Deepia-ls2fo
 
 https://www.tilderesearch.com/blog/rate-distortion-saes
 
-## Random but useful VAE Nuggets
+https://avandekleut.github.io/vae/
+
+
+### Random but useful VAE Nuggets
 - Some intuitions about the VAE Encoders are articulated [here](https://x.com/sang_yun_lee/status/1912548035717931304) and reference the following works
 	- [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/abs/2410.10733)
 	- [Diagnosing and Enhancing VAE models](https://arxiv.org/abs/1903.05789)
@@ -20,12 +26,18 @@ https://www.tilderesearch.com/blog/rate-distortion-saes
 	- *[The attention layers in the VAEs for FLUX, Stable Diffusion 3.5, and SDXL don't do anything.](https://x.com/rgilman33/status/1914273430611906590)*
 	- [*Here's broadly how I think the SDXL-VAE escapes the "tyranny of the grid”.*](https://x.com/rgilman33/status/1912206589173571616)
 
-## Good Technical Blogs
+### Good Technical Blogs
 
 - [Generative Modeling in Latent Space by Sander Dielman](https://github.com/hustvl/LightningDiT) - Talks extensively about latents
 
+### Anthropic Research on Interpretability
+- https://www.anthropic.com/research#interpretability
+- https://transformer-circuits.pub
 
-## Tools
+### Disentangling Latents
+Sliderspace - https://sliderspace.baulab.info
+
+## Tools and Models
 
 ### Visualizing Latents
 - **[DarkSpark](https://darkspark.dev)**
@@ -47,10 +59,10 @@ https://www.tilderesearch.com/blog/rate-distortion-saes
 - https://sair.synerise.com/emde-vs-multiresolution-hash-encoding/
 - https://sair.synerise.com/emde-illustrated/
 
-### Disentangling Latents
-Sliderspace - https://sliderspace.baulab.info
+### New Latents
+- V-Jepa by Meta
+- Causal Encoder - by Wan2.1 
 
-
-## Anthropic Research on Interpretability
-- https://www.anthropic.com/research#interpretability
-- https://transformer-circuits.pub
+## Datasets
+- https://jialuo-li.github.io/Science-T2I-Web/
+	- Can we use datasets from here to see what the latents look like ?
