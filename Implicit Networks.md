@@ -8,4 +8,8 @@
 - Neural Jacobian Fields - https://www.scenerepresentations.org/publications/jacobian-fields/
 - Deep implicit Layers tutorial
 	- https://implicit-layers-tutorial.org
-	- 
+
+
+## Talks and Articles
+
+- [John Barron - Google Deepmind - Talk on Radiance Fields 2025](https://www.youtube.com/watch?v=hFlF33JZbA0)
