@@ -1,5 +1,13 @@
 # VLMs and World Models
 
+## World Models - Business Case
+- https://a16z.com/ai-is-learning-to-build-reality/
+	- https://x.com/ccamp___/status/1907810870148870588
+- What are the major challenges ?
+- https://lsvp.com/stories/hello-world-models/
+- Good design principles to talk about 
+	- https://www.latent.space/p/claude-code?r=geyu0&utm_campaign=post&utm_medium=web
+
 
 ## Understanding vs. Generation
 - Image Understanding
