@@ -1,4 +1,4 @@
-# Understanding Autoencoders
+# Understanding Latent Spaces
 
 ## Readings
 
@@ -53,6 +53,10 @@ Sliderspace - https://sliderspace.baulab.info
 
 - https://x.com/msfeldstein/status/1849518352059990428
 	- Code: [Sliding in Latent Space](https://colab.research.google.com/drive/1176r3ZVqqxzVoj1pfq068_ehnLYdWoxm#scrollTo=Q0V1MtewwhZo)
+
+### Visualizing Diffusion and Flow Generative Models
+
+- https://github.com/helblazer811/Diffusion-Explorer
 
 ### Hash Grid Encoding
 - https://github.com/Ending2015a/hash-grid-encoding
