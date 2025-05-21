@@ -21,3 +21,6 @@
 
 - https://neilmadden.blog/2024/06/30/machine-learning-and-the-triumph-of-gofai/
  
+ ## Recent Papers
+ - https://x.com/RTomMcCoy/status/1924907476845043833
+	 - [Modeling rapid language learning by distilling Bayesian priors into artificial neural networks](https://www.nature.com/articles/s41467-025-59957-y)
