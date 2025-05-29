@@ -33,6 +33,8 @@ https://avandekleut.github.io/vae/
 ### Anthropic Research on Interpretability
 - https://www.anthropic.com/research#interpretability
 - https://transformer-circuits.pub
+- [Circuit Tracing Tool](https://www.anthropic.com/research/open-source-circuit-tracing)
+- https://transformer-circuits.pub/2025/attribution-graphs/methods.html
 
 ### Disentangling Latents
 Sliderspace - https://sliderspace.baulab.info
@@ -53,6 +55,9 @@ Sliderspace - https://sliderspace.baulab.info
 
 - https://x.com/msfeldstein/status/1849518352059990428
 	- Code: [Sliding in Latent Space](https://colab.research.google.com/drive/1176r3ZVqqxzVoj1pfq068_ehnLYdWoxm#scrollTo=Q0V1MtewwhZo)
+
+- https://x.com/michaelwhanna/status/1928122114726297812
+	- Code: https://www.neuronpedia.org
 
 ### Visualizing Diffusion and Flow Generative Models
 
