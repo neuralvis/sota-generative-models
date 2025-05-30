@@ -24,3 +24,23 @@
  ## Recent Papers
  - https://x.com/RTomMcCoy/status/1924907476845043833
 	 - [Modeling rapid language learning by distilling Bayesian priors into artificial neural networks](https://www.nature.com/articles/s41467-025-59957-y)
+
+
+## Probabilistic Circuits
+
+### For Steering Language and Image Generation
+- [Image Inpainting Via Tractable Steering Of Diffusion Models](https://arxiv.org/pdf/2401.03349)
+- [Tractable Control for Autoregressive Language Generation](https://arxiv.org/pdf/2304.07438)
+- [Adaptable Logical Control for Large Language Models](https://arxiv.org/pdf/2406.13892)
+
+
+### For Systems and HW
+- [Scaling Tractable Probabilistic Circuits: A Systems Perspective](https://arxiv.org/pdf/2406.00766)
+- [Einsum Networks: Fast and Scalable Learning of Tractable Probabilistic Circuits](https://arxiv.org/pdf/2004.06231)
+- [Semantic Probabilistic Layers for Neuro-Symbolic Learning](https://arxiv.org/pdf/2206.00426)
+
+
+
+
+
+
