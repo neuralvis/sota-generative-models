@@ -42,5 +42,8 @@
 
 
 
+## Reasoning in Latent Space
 
+- [Blog Article](https://www.luiscardoso.dev/blog/neuralese)
+- [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
 
