@@ -37,6 +37,7 @@ These articles provide an in-depth view of attention mechanisms -
 3. [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html)
 4. [Creating a Transformer From Scratch](https://benjaminwarner.dev/2023/07/01/attention-mechanism)
 5. [How to scale your model](https://jax-ml.github.io/scaling-book/) 
+6. [Transformers Laid Out](https://goyalpramod.github.io/blogs/Transformers_laid_out/)
 
 # Convolutional Neural Networks
 1. Go through Brandon Rohrer’s [How do CNNs work? Video and Notes](https://e2eml.school/how_convolutional_neural_networks_work) and the [in-depth video](https://www.youtube.com/watch?v=JB8T_zN7ZC0) to conceptually understand
@@ -58,7 +59,8 @@ UNets are fundamental to diffusion models, and therefore gaining a good understa
 	- [Perceiver](https://arxiv.org/abs/2103.03206) and [PerceiverIO](https://arxiv.org/abs/2107.14795)
 	- [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971)
 - There is a code implementation explanation for UNets with Attention layers here - https://nn.labml.ai/diffusion/stable_diffusion/model/unet_attention.html 
-# Stable Diffusion
+
+# Diffusion Models
 ## Conceptual Understanding 
 
 1. [How AI Image Generators Work](https://www.youtube.com/watch?v=1CIpzeNxIhU) : Excellent introduction to the fundamental workings of UNet in the context of Stable Diffusion from [`computerphile`](https://www.youtube.com/@Computerphile).
@@ -109,4 +111,5 @@ The following links have not been reviewed -
 - http://colah.github.io
 - https://distill.pub/2020/circuits/
 - https://transformer-circuits.pub
-- Sebastian Raschka’s Blog
+- [Sebastian Raschka’s Blog](https://magazine.sebastianraschka.com)
+- [Pramod Goyal Blog](https://goyalpramod.github.io/blog/)

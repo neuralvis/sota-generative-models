@@ -1,13 +1,4 @@
-# Seminal Papers
-
-## Stable Cascade Resources
-- [Introducing Stable Cascade](https://stability.ai/news/introducing-stable-cascade)
-	- [OpenReview Paper](https://openreview.net/forum?id=gU58d5QeGv)
-	- [Huggingface Blog](https://huggingface.co/blog/wuerstchen)
-	- [Github Repo](https://github.com/Stability-AI/StableCascade)
-	- [Github for Wuerstchen](https://github.com/dome272/Wuerstchen)
-	- [Arxiv Paper](https://arxiv.org/abs/2306.00637)
-	- [Youtube Explanation by Author](https://www.youtube.com/watch?v=ogJsCPqgFMk&t=83s)
+# Seminal Articles
 
 
 ## Diffusion Modeling
@@ -17,6 +8,8 @@
 - [What are diffusion models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) by Lilian Weng gives theoretical underpinnings for diffusion models.
 - [Langevin Monte Carlo Sampling](https://abdulfatir.com/blog/2020/Langevin-Monte-Carlo/)
 - [Diffusion without tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c) provides an interview with Yan Song - the inventor of diffusion processes.
+- [Demystifying Diffusion Models](https://goyalpramod.github.io/blogs/demysitifying_diffusion_models/)
+- 
 
 ## Flow Matching
 Some links from https://twitter.com/CSProfKGD/status/1779893136392609975
