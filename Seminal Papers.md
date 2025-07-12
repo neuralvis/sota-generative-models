@@ -32,3 +32,7 @@ Some links from https://twitter.com/CSProfKGD/status/1779893136392609975
 - [Matching flows instead of scores](https://jmtomczak.github.io/blog/18/18_fm.html)
 - [An introduction to flow matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
 - [Normalizing Flows](https://abdulfatir.com/blog/2018/Normalizing-Flows-Part-1/)
+
+## World Models
+- [Towards Video World Models](https://www.xunhuang.me/blogs/world_model.html)
+- [By Jon Barron (DeepMind)](https://x.com/jon_barron/status/1909393003892097178) - good thoughts on MLPs vs Models

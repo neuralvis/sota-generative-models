@@ -63,8 +63,6 @@ Many of the following work use [Diffusion Forcing](https://boyuan.space/diffusio
 
 
 
-
-
 ### Seminal Papers
 https://worldmodels.github.io
 
@@ -73,9 +71,10 @@ https://worldmodels.github.io
 - Connections to diffusion forcing ?
 
 ### Adjacent Articles and Papers 
-- [By Jon Barron (DeepMind)](https://x.com/jon_barron/status/1909393003892097178)
+- [By Jon Barron (DeepMind)](https://x.com/jon_barron/status/1909393003892097178) - good thoughts on MLPs vs Models
 - PhysDreamer: https://physdreamer.github.io/
 - PhyScene: https://physcene.github.io/
-- https://sim-gs.github.io/
+- https://sim-gs.github.io/ - Original Paper on WMs from Jurgen
+- [Towards Video World Models](https://www.xunhuang.me/blogs/world_model.html)
 
 
