@@ -30,6 +30,7 @@
 ## Introductory Material
 
 - https://nanonets.com/blog/bridging-images-and-text-a-survey-of-vlms/
+- https://knightnemo.github.io/blog/posts/wm_2025/#33-world-models-that-integrate-multi-modal-signals
 
 ## SoTa Models
 - https://github.com/dvlab-research/LISA
@@ -76,5 +77,6 @@ https://worldmodels.github.io
 - PhyScene: https://physcene.github.io/
 - https://sim-gs.github.io/ - Original Paper on WMs from Jurgen
 - [Towards Video World Models](https://www.xunhuang.me/blogs/world_model.html)
+- [Beyond the Hype: How I See World Models Evolving in 2025](https://knightnemo.github.io/blog/posts/wm_2025/#33-world-models-that-integrate-multi-modal-signals)
 
 

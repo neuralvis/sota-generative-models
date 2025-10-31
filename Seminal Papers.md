@@ -36,3 +36,7 @@ Some links from https://twitter.com/CSProfKGD/status/1779893136392609975
 ## World Models
 - [Towards Video World Models](https://www.xunhuang.me/blogs/world_model.html)
 - [By Jon Barron (DeepMind)](https://x.com/jon_barron/status/1909393003892097178) - good thoughts on MLPs vs Models
+
+## Videos
+
+- [Theoretical Understanding of Diffusion](https://www.youtube.com/watch?v=RqhVqML6Lzc&t=1s)

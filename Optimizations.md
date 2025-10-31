@@ -19,6 +19,18 @@ Code: https://github.com/leejet/stable-diffusion.cpp
 ## GPTQ and GGUF
 - [Overview of quantization approaches](https://substack.com/inbox/post/145531349)
 
+
+## Attention optimizations
+
+- [Understanding Paged Attention](https://hamzaelshafie.bearblog.dev/paged-attention-from-first-principles-a-view-inside-vllm/)
+
+- [DeltaNet Explained](https://sustcsonglin.github.io/blog/2024/deltanet-1/)
+
+## VAE Optimizations
+
+- https://huggingface.co/lightx2v/Autoencoders
+
+
 ## Tools
 - [OneDiff](https://github.com/siliconflow/onediff)
 - [Nexa AI](https://github.com/NexaAI/nexa-sdk)

@@ -17,6 +17,9 @@ https://www.tilderesearch.com/blog/rate-distortion-saes
 
 https://avandekleut.github.io/vae/
 
+### Sparse Autoencoders
+
+- SAEdit - https://ronen94.github.io/SAEdit/
 
 ### Random but useful VAE Nuggets
 - Some intuitions about the VAE Encoders are articulated [here](https://x.com/sang_yun_lee/status/1912548035717931304) and reference the following works
@@ -29,6 +32,7 @@ https://avandekleut.github.io/vae/
 ### Good Technical Blogs
 
 - [Generative Modeling in Latent Space by Sander Dielman](https://github.com/hustvl/LightningDiT) - Talks extensively about latents
+- [Deep representation learning](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
 
 ### Anthropic Research on Interpretability
 - https://www.anthropic.com/research#interpretability
@@ -58,6 +62,7 @@ Sliderspace - https://sliderspace.baulab.info
 
 - https://x.com/michaelwhanna/status/1928122114726297812
 	- Code: https://www.neuronpedia.org
+
 
 ### Visualizing Diffusion and Flow Generative Models
 

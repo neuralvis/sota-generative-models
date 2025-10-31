@@ -38,6 +38,7 @@ These articles provide an in-depth view of attention mechanisms -
 4. [Creating a Transformer From Scratch](https://benjaminwarner.dev/2023/07/01/attention-mechanism)
 5. [How to scale your model](https://jax-ml.github.io/scaling-book/) 
 6. [Transformers Laid Out](https://goyalpramod.github.io/blogs/Transformers_laid_out/)
+7. [Everything about Transformers](https://www.krupadave.com/articles/everything-about-transformers?x=v3)
 
 # Convolutional Neural Networks
 1. Go through Brandon Rohrer’s [How do CNNs work? Video and Notes](https://e2eml.school/how_convolutional_neural_networks_work) and the [in-depth video](https://www.youtube.com/watch?v=JB8T_zN7ZC0) to conceptually understand
