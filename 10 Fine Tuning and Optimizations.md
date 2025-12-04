@@ -9,3 +9,5 @@
 ## Techniques
 - [On Lora vs Full Fine Tuning](https://x.com/ReeceShuttle/status/1983224848735178843)
 - [Fine Tuning and RL for LLMs on AMD](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/)
+
+## FastWAN
