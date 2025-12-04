@@ -9,6 +9,15 @@
 
 
 ## World Models
+
+### Hypothesis
+
+1. Emergence of hybrid diffusion and autoregressive architectures that use [self-forcing](https://self-forcing.github.io/), [diffusion-forcing](https://www.boyuan.space/history-guidance/), or [rolling forcing](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/)
+2. Emergence of fixed-memory spatio-temporal state tokens to manage the growth in sequence length and KV Cache. These tokens play a dual-role - continuous update through a bi-directional transformer decoder, and revising the next-token prediction. This seems like trading-off compute for memory by abstracting context into memory tokens rather than using KV Cache, that the model updates and uses for predicting next token. [CUT3R](https://cut3r.github.io/)
+3. Implicit and compressed representations for spatio-temporal reasoning directly in latent space - like [VJEPA2](https://ai.meta.com/vjepa/), [SVG](https://howlin-wang.github.io/svg/) and [REPA](https://rae-dit.github.io), [AToken](https://machinelearning.apple.com/research/atoken)
+4. Continual Learning using RL or otherwise and steering of generation depends on inference time compute to do post-training adaptations. 
+
+
 ### Business Case
 - https://a16z.com/ai-is-learning-to-build-reality/
 	- https://x.com/ccamp___/status/1907810870148870588
